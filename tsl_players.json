@@ -196,7 +196,7 @@
       "positionRaw": "GK",
       "rating": 92,
       "nation": "Türkiye",
-      "rarity": "hero"
+      "rarity": null
     },
     {
       "number": 8,
@@ -355,7 +355,7 @@
       "positionRaw": "ST",
       "rating": 89,
       "nation": "Türkiye",
-      "rarity": "hero"
+      "rarity": null
     },
     {
       "number": null,
@@ -523,7 +523,7 @@
       "positionRaw": "ST",
       "rating": 88,
       "nation": "Türkiye",
-      "rarity": "hero"
+      "rarity": null
     },
     {
       "number": 2,
@@ -673,14 +673,14 @@
       "positionRaw": "LW",
       "rating": 90,
       "nation": "Türkiye",
-      "rarity": "hero"
+      "rarity": null
     },
     {
       "number": null,
       "name": "Amigo Orhan",
       "position": "MID",
       "positionRaw": "CAM",
-      "rating": 80,
+      "rating": 85,
       "nation": "Türkiye",
       "rarity": "hero"
     },
@@ -823,7 +823,7 @@
       "positionRaw": "GK",
       "rating": 90,
       "nation": "Türkiye",
-      "rarity": "hero"
+      "rarity": null
     },
     {
       "number": 9,
@@ -1114,7 +1114,7 @@
       "positionRaw": "GK",
       "rating": 92,
       "nation": "Almanya",
-      "rarity": "hero"
+      "rarity": null
     },
     {
       "number": 9,
@@ -1994,154 +1994,34 @@
     }
   ]
 },
-  {
+{
   "team": "Beşiktaş",
   "era": "90lar",
   "players": [
-    {
-      "number": 10,
-      "name": "Mehmet Özdilek",
-      "position": "MID",
-      "positionRaw": "CAM",
-      "rating": 95,
-      "nation": "Türkiye",
-      "rarity": "legend"
-    },
-    {
-      "number": 11,
-      "name": "Sergen Yalçın",
-      "position": "MID",
-      "positionRaw": "CAM",
-      "rating": 96,
-      "nation": "Türkiye",
-      "rarity": "icon"
-    },
-    {
-      "number": 9,
-      "name": "Feyyaz Uçar",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 89,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 11,
-      "name": "Daniel Amokachi",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 91,
-      "nation": "Nijerya",
-      "rarity": null
-    },
-    {
-      "number": 7,
-      "name": "Oktay Derelioğlu",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 87,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 4,
-      "name": "Gökhan Keskin",
-      "position": "DEF",
-      "positionRaw": "CB",
-      "rating": 86,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 5,
-      "name": "Alpay Özalan",
-      "position": "DEF",
-      "positionRaw": "CB",
-      "rating": 86,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 3,
-      "name": "Tayfur Havutçu",
-      "position": "MID",
-      "positionRaw": "CDM",
-      "rating": 86,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 11,
-      "name": "Ali Gültiken",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 85,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 2,
-      "name": "Recep Çetin",
-      "position": "DEF",
-      "positionRaw": "RB",
-      "rating": 84,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 1,
-      "name": "Marijan Mrmić",
-      "position": "GK",
-      "positionRaw": "GK",
-      "rating": 84,
-      "nation": "Hırvatistan",
-      "rarity": null
-    },
-    {
-      "number": 1,
-      "name": "Raimond Aumann",
-      "position": "GK",
-      "positionRaw": "GK",
-      "rating": 83,
-      "nation": "Almanya",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Ali Günçar",
-      "position": "DEF",
-      "positionRaw": "CB",
-      "rating": 82,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 3,
-      "name": "Mutlu Topçu",
-      "position": "DEF",
-      "positionRaw": "LB",
-      "rating": 81,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Yasin Sülün",
-      "position": "MID",
-      "positionRaw": "CM",
-      "rating": 79,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 1,
-      "name": "Fevzi Layiç",
-      "position": "GK",
-      "positionRaw": "GK",
-      "rating": 79,
-      "nation": "Türkiye",
-      "rarity": null
-    }
+    {"number": 11, "name": "Sergen Yalçın", "position": "MID", "positionRaw": "CAM", "rating": 97, "nation": "Türkiye", "rarity": "icon"},
+    {"number": 10, "name": "Mehmet Özdilek", "position": "MID", "positionRaw": "CAM", "rating": 96, "nation": "Türkiye", "rarity": "legend"},
+    {"number": 8, "name": "Rıza Çalımbay", "position": "MID", "positionRaw": "RM", "rating": 94, "nation": "Türkiye", "rarity": null},
+    {"number": 11, "name": "Daniel Amokachi", "position": "FWD", "positionRaw": "ST", "rating": 91, "nation": "Nijerya", "rarity": null},
+    {"number": 7, "name": "Metin Tekin", "position": "MID", "positionRaw": "RW", "rating": 91, "nation": "Türkiye", "rarity": null},
+    {"number": 9, "name": "Feyyaz Uçar", "position": "FWD", "positionRaw": "ST", "rating": 89, "nation": "Türkiye", "rarity": null},
+    {"number": 7, "name": "Oktay Derelioğlu", "position": "FWD", "positionRaw": "ST", "rating": 87, "nation": "Türkiye", "rarity": null},
+    {"number": 4, "name": "Gökhan Keskin", "position": "DEF", "positionRaw": "CB", "rating": 86, "nation": "Türkiye", "rarity": null},
+    {"number": 5, "name": "Alpay Özalan", "position": "DEF", "positionRaw": "CB", "rating": 86, "nation": "Türkiye", "rarity": null},
+    {"number": 3, "name": "Tayfur Havutçu", "position": "MID", "positionRaw": "CDM", "rating": 86, "nation": "Türkiye", "rarity": null},
+    {"number": 9, "name": "Ertuğrul Sağlam", "position": "FWD", "positionRaw": "ST", "rating": 86, "nation": "Türkiye", "rarity": null},
+    {"number": 11, "name": "Ali Gültiken", "position": "FWD", "positionRaw": "ST", "rating": 85, "nation": "Türkiye", "rarity": null},
+    {"number": 2, "name": "Recep Çetin", "position": "DEF", "positionRaw": "RB", "rating": 84, "nation": "Türkiye", "rarity": null},
+    {"number": 1, "name": "Marijan Mrmić", "position": "GK", "positionRaw": "GK", "rating": 84, "nation": "Hırvatistan", "rarity": null},
+    {"number": 6, "name": "Zlatko Yankov", "position": "MID", "positionRaw": "CDM", "rating": 83, "nation": "Bulgaristan", "rarity": null},
+    {"number": 1, "name": "Raimond Aumann", "position": "GK", "positionRaw": "GK", "rating": 83, "nation": "Almanya", "rarity": null},
+    {"number": null, "name": "Rahim Zafer", "position": "DEF", "positionRaw": "CB", "rating": 83, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Ayhan Akman", "position": "MID", "positionRaw": "CM", "rating": 83, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Ali Günçar", "position": "DEF", "positionRaw": "CB", "rating": 82, "nation": "Türkiye", "rarity": null},
+    {"number": 3, "name": "Mutlu Topçu", "position": "DEF", "positionRaw": "LB", "rating": 81, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Christopher Ohen", "position": "FWD", "positionRaw": "ST", "rating": 82, "nation": "Nijerya", "rarity": null},
+    {"number": 14, "name": "Sertan Eser", "position": "MID", "positionRaw": "LM", "rating": 80, "nation": "Türkiye", "rarity": null},
+    {"number": 18, "name": "Yasin Sülün", "position": "MID", "positionRaw": "CM", "rating": 79, "nation": "Türkiye", "rarity": null},
+    {"number": 1, "name": "Fevzi Layiç", "position": "GK", "positionRaw": "GK", "rating": 79, "nation": "Türkiye", "rarity": null}
   ]
 },
   {
@@ -2375,7 +2255,7 @@
       "name": "Okan Buruk",
       "position": "MID",
       "positionRaw": "RM",
-      "rating": 85,
+      "rating": 89,
       "nation": "Türkiye",
       "rarity": null
     },
@@ -2605,7 +2485,7 @@
       "positionRaw": "ST",
       "rating": 91,
       "nation": "Türkiye",
-      "rarity": "hero"
+      "rarity": null
     },
     {
       "number": 10,
@@ -3198,150 +3078,26 @@
   "team": "Altay",
   "era": "90lar",
   "players": [
-    {
-      "number": 1,
-      "name": "Şanver Göymen",
-      "position": "GK",
-      "positionRaw": "GK",
-      "rating": 84,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 9,
-      "name": "Vali Gasimov",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 84,
-      "nation": "Azerbaycan",
-      "rarity": null
-    },
-    {
-      "number": 9,
-      "name": "Fatih Tekke",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 83,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 6,
-      "name": "Atandji Ayovi",
-      "position": "MID",
-      "positionRaw": "CM",
-      "rating": 82,
-      "nation": "Togo",
-      "rarity": null
-    },
-    {
-      "number": 2,
-      "name": "Erdi Demir",
-      "position": "DEF",
-      "positionRaw": "RB",
-      "rating": 81,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 9,
-      "name": "Ümit Karan",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 81,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 8,
-      "name": "Tahir Karapınar",
-      "position": "MID",
-      "positionRaw": "RM",
-      "rating": 80,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 4,
-      "name": "Alper Timur",
-      "position": "DEF",
-      "positionRaw": "CB",
-      "rating": 79,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "İbrahim Akın",
-      "position": "MID",
-      "positionRaw": "CAM",
-      "rating": 78,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Müjdat Yetkiner",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 78,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Kadri Sancak",
-      "position": "DEF",
-      "positionRaw": "CB",
-      "rating": 77,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Orhan Üstündağ",
-      "position": "DEF",
-      "positionRaw": "CB",
-      "rating": 77,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Serkan Dökme",
-      "position": "MID",
-      "positionRaw": "CM",
-      "rating": 76,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Georgi Ivanov",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 76,
-      "nation": "Bulgaristan",
-      "rarity": null
-    },
-    {
-      "number": 3,
-      "name": "Murat Alaçayır",
-      "position": "DEF",
-      "positionRaw": "LB",
-      "rating": 75,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 1,
-      "name": "Reşat Çağan",
-      "position": "GK",
-      "positionRaw": "GK",
-      "rating": 74,
-      "nation": "Türkiye",
-      "rarity": null
-    }
+    {"number": 1, "name": "Şanver Göymen", "position": "GK", "positionRaw": "GK", "rating": 84, "nation": "Türkiye", "rarity": null},
+    {"number": 9, "name": "Vali Gasimov", "position": "FWD", "positionRaw": "ST", "rating": 84, "nation": "Azerbaycan", "rarity": null},
+    {"number": 9, "name": "Fatih Tekke", "position": "FWD", "positionRaw": "ST", "rating": 83, "nation": "Türkiye", "rarity": null},
+    {"number": 6, "name": "Atandji Ayovi", "position": "MID", "positionRaw": "CM", "rating": 82, "nation": "Togo", "rarity": null},
+    {"number": 2, "name": "Erdi Demir", "position": "DEF", "positionRaw": "RB", "rating": 81, "nation": "Türkiye", "rarity": null},
+    {"number": 9, "name": "Ümit Karan", "position": "FWD", "positionRaw": "ST", "rating": 81, "nation": "Türkiye", "rarity": null},
+    {"number": 8, "name": "Tahir Karapınar", "position": "MID", "positionRaw": "RM", "rating": 80, "nation": "Türkiye", "rarity": null},
+    {"number": 4, "name": "Alper Timur", "position": "DEF", "positionRaw": "CB", "rating": 79, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Ahmet Akuygur", "position": "DEF", "positionRaw": "LB", "rating": 78, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Emre Gönen", "position": "MID", "positionRaw": "LM", "rating": 78, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Kadri Sancak", "position": "DEF", "positionRaw": "CB", "rating": 77, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Orhan Üstündağ", "position": "DEF", "positionRaw": "CB", "rating": 77, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "İlhan Sancaktar", "position": "DEF", "positionRaw": "RB", "rating": 77, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Yüksel Kepoğlu", "position": "MID", "positionRaw": "CM", "rating": 77, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Serkan Dökme", "position": "MID", "positionRaw": "CM", "rating": 76, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Georgi Ivanov", "position": "FWD", "positionRaw": "ST", "rating": 76, "nation": "Bulgaristan", "rarity": null},
+    {"number": null, "name": "Kenan Öztürk", "position": "MID", "positionRaw": "RM", "rating": 76, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Ramadan Ragap", "position": "MID", "positionRaw": "RM", "rating": 80, "nation": "Mısır", "rarity": null},
+    {"number": 3, "name": "Murat Alaçayır", "position": "DEF", "positionRaw": "LB", "rating": 75, "nation": "Türkiye", "rarity": null},
+    {"number": 1, "name": "Reşat Çağan", "position": "GK", "positionRaw": "GK", "rating": 74, "nation": "Türkiye", "rarity": null}
   ]
 },
   {
@@ -3653,9 +3409,9 @@
       "name": "Bülent Korkmaz",
       "position": "DEF",
       "positionRaw": "CB",
-      "rating": 95,
+      "rating": 93,
       "nation": "Türkiye",
-      "rarity": "legend"
+      "rarity": null
     },
     {
       "number": 1,
@@ -3803,7 +3559,7 @@
       "name": "Fatih Tekke",
       "position": "FWD",
       "positionRaw": "ST",
-      "rating": 94,
+      "rating": 96,
       "nation": "Türkiye",
       "rarity": "legend"
     },
@@ -4107,6 +3863,9 @@
       "nation": "Türkiye",
       "rarity": "hero"
     },
+    {"number": 7, "name": "Ahmed Hassan", "position": "MID", "positionRaw": "RM", "rating": 85, "nation": "Mısır", "rarity": null},
+    {"number": 10, "name": "Timuçin Beyazıt", "position": "MID", "positionRaw": "LM", "rating": 82, "nation": "Türkiye", "rarity": null},
+    {"number": 2, "name": "Ali Tandoğan", "position": "MID", "positionRaw": "RM", "rating": 83, "nation": "Türkiye", "rarity": null},
     {
       "number": 4,
       "name": "Roman Kratochvíl",
@@ -4258,6 +4017,69 @@
       "rarity": null
     },
     {
+      "number": 3,
+      "name": "İbrahim Üzülmez",
+      "position": "DEF",
+      "positionRaw": "LB",
+      "rating": 85,
+      "nation": "Türkiye",
+      "rarity": null
+    },
+    {
+    "number": null,
+    "name": "Ramadan Ragap",
+    "position": "MID",
+    "positionRaw": "RM",
+    "rating": 81,
+    "nation": "Mısır",
+    "rarity": null
+  },
+  {
+    "number": 17,
+    "name": "Kemal Aslan",
+    "position": "MID",
+    "positionRaw": "RM",
+    "rating": 83,
+    "nation": "Türkiye",
+    "rarity": null
+  },
+  {
+    "number": null,
+    "name": "Mehmet Çoğum",
+    "position": "DEF",
+    "positionRaw": "RB",
+    "rating": 79,
+    "nation": "Türkiye",
+    "rarity": null
+  },
+  {
+    "number": 4,
+    "name": "Júlio César Santos",
+    "position": "DEF",
+    "positionRaw": "CB",
+    "rating": 82,
+    "nation": "Brezilya",
+    "rarity": null
+  },
+    {
+      "number": 10,
+      "name": "Tarık El Taib",
+      "position": "MID",
+      "positionRaw": "LM",
+      "rating": 86,
+      "nation": "Libya",
+      "rarity": null
+    },
+    {
+      "number": 11,
+      "name": "Maksim Romashchenko",
+      "position": "MID",
+      "positionRaw": "LM",
+      "rating": 89,
+      "nation": "Belarus",
+      "rarity": null
+    },
+    {
       "number": 1,
       "name": "Ömer Çatkıç",
       "position": "GK",
@@ -4289,7 +4111,7 @@
       "name": "Viola",
       "position": "FWD",
       "positionRaw": "ST",
-      "rating": 85,
+      "rating": 88,
       "nation": "Brezilya",
       "rarity": null
     },
@@ -4324,8 +4146,8 @@
       "number": 10,
       "name": "Erhan Namlı",
       "position": "MID",
-      "positionRaw": "CAM",
-      "rating": 83,
+      "positionRaw": "CM",
+      "rating": 84,
       "nation": "Türkiye",
       "rarity": null
     },
@@ -4548,150 +4370,26 @@
   "team": "Malatyaspor",
   "era": "2000ler",
   "players": [
-    {
-      "number": 5,
-      "name": "Ayman Abdelaziz",
-      "position": "MID",
-      "positionRaw": "CDM",
-      "rating": 85,
-      "nation": "Mısır",
-      "rarity": null
-    },
-    {
-      "number": 1,
-      "name": "Petar Milosevski",
-      "position": "GK",
-      "positionRaw": "GK",
-      "rating": 84,
-      "nation": "Kuzey Makedonya",
-      "rarity": null
-    },
-    {
-      "number": 2,
-      "name": "Mert Korkmaz",
-      "position": "DEF",
-      "positionRaw": "CB",
-      "rating": 83,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 7,
-      "name": "Helman Mkhalele",
-      "position": "MID",
-      "positionRaw": "LM",
-      "rating": 83,
-      "nation": "Güney Afrika",
-      "rarity": null
-    },
-    {
-      "number": 3,
-      "name": "Tolga Seyhan",
-      "position": "DEF",
-      "positionRaw": "CB",
-      "rating": 82,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 9,
-      "name": "Fazlı Ulusal",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 82,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 33,
-      "name": "Celaleddin Koçak",
-      "position": "DEF",
-      "positionRaw": "LB",
-      "rating": 81,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 11,
-      "name": "Atilla Birlik",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 80,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Bilal Kısa",
-      "position": "MID",
-      "positionRaw": "CAM",
-      "rating": 79,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Mithat Yavaş",
-      "position": "MID",
-      "positionRaw": "CM",
-      "rating": 78,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Ramazan Kahya",
-      "position": "DEF",
-      "positionRaw": "LB",
-      "rating": 77,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Serkan Bensol",
-      "position": "DEF",
-      "positionRaw": "RB",
-      "rating": 77,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Milan Osterc",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 76,
-      "nation": "Slovenya",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Serkan Özsoy",
-      "position": "DEF",
-      "positionRaw": "CB",
-      "rating": 76,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Gökhan Tokgöz",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 75,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 12,
-      "name": "Fevzi Tuncay",
-      "position": "GK",
-      "positionRaw": "GK",
-      "rating": 74,
-      "nation": "Türkiye",
-      "rarity": null
-    }
+    {"number": 5, "name": "Ayman Abdelaziz", "position": "MID", "positionRaw": "CDM", "rating": 85, "nation": "Mısır", "rarity": null},
+    {"number": 1, "name": "Petar Milosevski", "position": "GK", "positionRaw": "GK", "rating": 84, "nation": "Kuzey Makedonya", "rarity": null},
+    {"number": 2, "name": "Mert Korkmaz", "position": "DEF", "positionRaw": "CB", "rating": 83, "nation": "Türkiye", "rarity": null},
+    {"number": 7, "name": "Helman Mkhalele", "position": "MID", "positionRaw": "LM", "rating": 83, "nation": "Güney Africa", "rarity": null},
+    {"number": 3, "name": "Tolga Seyhan", "position": "DEF", "positionRaw": "CB", "rating": 82, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Ali Tandoğan", "position": "DEF", "positionRaw": "RB", "rating": 82, "nation": "Türkiye", "rarity": null},
+    {"number": 9, "name": "Fazlı Ulusal", "position": "FWD", "positionRaw": "ST", "rating": 82, "nation": "Türkiye", "rarity": null},
+    {"number": 33, "name": "Celaleddin Koçak", "position": "DEF", "positionRaw": "LB", "rating": 81, "nation": "Türkiye", "rarity": null},
+    {"number": 11, "name": "Atilla Birlik", "position": "FWD", "positionRaw": "ST", "rating": 80, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Yunus Altun", "position": "MID", "positionRaw": "RW", "rating": 80, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Bilal Kısa", "position": "MID", "positionRaw": "CAM", "rating": 79, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Murat Erdoğan", "position": "MID", "positionRaw": "LM", "rating": 79, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Ramazan Kahya", "position": "DEF", "positionRaw": "LB", "rating": 77, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Serkan Bensol", "position": "DEF", "positionRaw": "RB", "rating": 77, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Schandor Güngör", "position": "MID", "positionRaw": "RM", "rating": 77, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Milan Osterc", "position": "FWD", "positionRaw": "ST", "rating": 76, "nation": "Slovenya", "rarity": null},
+    {"number": null, "name": "Serkan Özsoy", "position": "DEF", "positionRaw": "CB", "rating": 76, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "İnanç Gültekin", "position": "DEF", "positionRaw": "RB", "rating": 76, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Gökhan Tokgöz", "position": "GK", "positionRaw": "GK", "rating": 75, "nation": "Türkiye", "rarity": null},
+    {"number": 12, "name": "Fevzi Tuncay", "position": "GK", "positionRaw": "GK", "rating": 74, "nation": "Türkiye", "rarity": null}
   ]
 },
 {
@@ -4855,7 +4553,7 @@
       "positionRaw": "CAM",
       "rating": 89,
       "nation": "Arjantin",
-      "rarity": "legend"
+      "rarity": null
     },
     {
       "number": 19,
@@ -5175,159 +4873,28 @@
   "team": "İstanbulspor",
   "era": "2000ler",
   "players": [
-    {
-      "number": 9,
-      "name": "Cenk İşler",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 84,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 11,
-      "name": "Elvir Boliç",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 84,
-      "nation": "Bosna-Hersek",
-      "rarity": null
-    },
-    {
-      "number": 1,
-      "name": "Zdravko Zdravkov",
-      "position": "GK",
-      "positionRaw": "GK",
-      "rating": 83,
-      "nation": "Bulgaristan",
-      "rarity": null
-    },
-    {
-      "number": 5,
-      "name": "Alioum Saidou",
-      "position": "MID",
-      "positionRaw": "CDM",
-      "rating": 82,
-      "nation": "Kamerun",
-      "rarity": null
-    },
-    {
-      "number": 7,
-      "name": "Selçuk Şahin",
-      "position": "MID",
-      "positionRaw": "CM",
-      "rating": 81,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 4,
-      "name": "Saffet Akbaş",
-      "position": "DEF",
-      "positionRaw": "CB",
-      "rating": 81,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 2,
-      "name": "Deniz Uygar",
-      "position": "DEF",
-      "positionRaw": "CB",
-      "rating": 80,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Pini Balili",
-      "position": "FWD",
-      "positionRaw": "ST",
-      "rating": 80,
-      "nation": "İsrail",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Alban Bushi",
-      "position": "MID",
-      "positionRaw": "CAM",
-      "rating": 79,
-      "nation": "Arnavutluk",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Mehmet Yozgatlı",
-      "position": "MID",
-      "positionRaw": "RM",
-      "rating": 79,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Cem Can",
-      "position": "MID",
-      "positionRaw": "CDM",
-      "rating": 78,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Yalçın Ayhan",
-      "position": "DEF",
-      "positionRaw": "CB",
-      "rating": 78,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Aytekin Viduşlu",
-      "position": "MID",
-      "positionRaw": "CDM",
-      "rating": 77,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Andre Pinto",
-      "position": "DEF",
-      "positionRaw": "LB",
-      "rating": 76,
-      "nation": "Brezilya",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Güven Kocabal",
-      "position": "MID",
-      "positionRaw": "CAM",
-      "rating": 75,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": null,
-      "name": "Musa Kuş",
-      "position": "MID",
-      "positionRaw": "RM",
-      "rating": 75,
-      "nation": "Türkiye",
-      "rarity": null
-    },
-    {
-      "number": 12,
-      "name": "Oğuz Dağlaroğlu",
-      "position": "GK",
-      "positionRaw": "GK",
-      "rating": 74,
-      "nation": "Türkiye",
-      "rarity": null
-    }
+    {"number": 9, "name": "Cenk İşler", "position": "FWD", "positionRaw": "ST", "rating": 84, "nation": "Türkiye", "rarity": null},
+    {"number": 11, "name": "Elvir Boliç", "position": "FWD", "positionRaw": "ST", "rating": 84, "nation": "Bosna-Hersek", "rarity": null},
+    {"number": 1, "name": "Zdravko Zdravkov", "position": "GK", "positionRaw": "GK", "rating": 83, "nation": "Bulgaristan", "rarity": null},
+    {"number": 5, "name": "Alioum Saidou", "position": "MID", "positionRaw": "CDM", "rating": 82, "nation": "Kamerun", "rarity": null},
+    {"number": 7, "name": "Selçuk Şahin", "position": "MID", "positionRaw": "CM", "rating": 81, "nation": "Türkiye", "rarity": null},
+    {"number": 4, "name": "Saffet Akbaş", "position": "DEF", "positionRaw": "CB", "rating": 81, "nation": "Türkiye", "rarity": null},
+    {"number": 2, "name": "Deniz Uygar", "position": "DEF", "positionRaw": "CB", "rating": 80, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Musa Büyük", "position": "DEF", "positionRaw": "RB", "rating": 80, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Alexander Iordanov", "position": "MID", "positionRaw": "CAM", "rating": 80, "nation": "Bulgaristan", "rarity": null},
+    {"number": null, "name": "Pini Balili", "position": "FWD", "positionRaw": "ST", "rating": 80, "nation": "İsrail", "rarity": null},
+    {"number": null, "name": "Alban Bushi", "position": "FWD", "positionRaw": "ST", "rating": 79, "nation": "Arnavutluk", "rarity": null},
+    {"number": null, "name": "Mehmet Yozgatlı", "position": "MID", "positionRaw": "RM", "rating": 79, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Faruk Namdar", "position": "DEF", "positionRaw": "LB", "rating": 78, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Cem Can", "position": "MID", "positionRaw": "CDM", "rating": 78, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Yalçın Ayhan", "position": "DEF", "positionRaw": "CB", "rating": 78, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Aytekin Viduşlu", "position": "MID", "positionRaw": "CDM", "rating": 77, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Ferdi Yanık", "position": "MID", "positionRaw": "RM", "rating": 77, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Andre Pinto", "position": "DEF", "positionRaw": "LB", "rating": 76, "nation": "Brezilya", "rarity": null},
+    {"number": null, "name": "Zoki Zdravkovski", "position": "MID", "positionRaw": "LM", "rating": 76, "nation": "Makedonya", "rarity": null},
+    {"number": null, "name": "Güven Kocabal", "position": "MID", "positionRaw": "CAM", "rating": 75, "nation": "Türkiye", "rarity": null},
+    {"number": null, "name": "Musa Kuş", "position": "MID", "positionRaw": "RM", "rating": 75, "nation": "Türkiye", "rarity": null},
+    {"number": 12, "name": "Oğuz Dağlaroğlu", "position": "GK", "positionRaw": "GK", "rating": 74, "nation": "Türkiye", "rarity": null}
   ]
 },
   {
@@ -5563,7 +5130,7 @@
       "positionRaw": "CAM",
       "rating": 98,
       "nation": "Brezilya",
-      "rarity": "icon"
+      "rarity": null
     },
     {
       "number": 5,
@@ -6370,7 +5937,7 @@
     "era": "2010lar",
     "players": [
       {"number": 9, "name": "Bogdan Stancu", "position": "FWD", "positionRaw": "ST", "rating": 81, "nation": "Romanya", "rarity": null},
-      {"number": 11, "name": "Hurşut Meriç", "position": "MID", "positionRaw": "RM", "rating": 80, "nation": "Türkiye", "rarity": null},
+      {"number": 11, "name": "Hurşut Meriç", "position": "MID", "positionRaw": "RM", "rating": 90, "nation": "Türkiye", "rarity": "hero"},
       {"number": 4, "name": "Ante Kulušić", "position": "DEF", "positionRaw": "CB", "rating": 79, "nation": "Hırvatistan", "rarity": null},
       {"number": 10, "name": "Jimmy Durmaz", "position": "MID", "positionRaw": "LW", "rating": 79, "nation": "İsveç", "rarity": null},
       {"number": 7, "name": "Ermin Zec", "position": "FWD", "positionRaw": "ST", "rating": 78, "nation": "Bosna Hersek", "rarity": null},
@@ -6412,7 +5979,7 @@
     "era": "2010lar",
     "players": [
       {"number": 9, "name": "Bobô", "position": "FWD", "positionRaw": "ST", "rating": 81, "nation": "Brezilya", "rarity": null},
-      {"number": 10, "name": "Deniz Türüç", "position": "MID", "positionRaw": "CAM", "rating": 80, "nation": "Türkiye", "rarity": null},
+      {"number": 10, "name": "Deniz Türüç", "position": "MID", "positionRaw": "RM", "rating": 85, "nation": "Türkiye", "rarity": null},
       {"number": 11, "name": "Diego Biseswar", "position": "MID", "positionRaw": "LM", "rating": 79, "nation": "Hollanda", "rarity": null},
       {"number": 6, "name": "Okay Yokuşlu", "position": "MID", "positionRaw": "CDM", "rating": 79, "nation": "Türkiye", "rarity": null},
       {"number": 22, "name": "Samba Sow", "position": "MID", "positionRaw": "CDM", "rating": 78, "nation": "Mali", "rarity": null},
@@ -6421,10 +5988,12 @@
       {"number": 14, "name": "Larrys Mabiala", "position": "DEF", "positionRaw": "CB", "rating": 77, "nation": "Kongo", "rarity": null},
       {"number": 7, "name": "Sefa Yılmaz", "position": "MID", "positionRaw": "RW", "rating": 76, "nation": "Türkiye", "rarity": null},
       {"number": 1, "name": "Muammer Yıldırım", "position": "GK", "positionRaw": "GK", "rating": 76, "nation": "Türkiye", "rarity": null},
+      {"number": 12, "name": "Silviu Lung Jr.", "position": "GK", "positionRaw": "GK", "rating": 83, "nation": "Romanya", "rarity": null},
       {"number": 17, "name": "Welliton", "position": "FWD", "positionRaw": "ST", "rating": 76, "nation": "Brezilya", "rarity": null},
       {"number": 23, "name": "Mert Nobre", "position": "FWD", "positionRaw": "ST", "rating": 75, "nation": "Türkiye", "rarity": null},
       {"number": 4, "name": "Sereno", "position": "DEF", "positionRaw": "CB", "rating": 75, "nation": "Portekiz", "rarity": null},
       {"number": 5, "name": "Salih Dursun", "position": "DEF", "positionRaw": "RB", "rating": 74, "nation": "Türkiye", "rarity": null},
+      {"number": 11, "name": "Gökhan Emreciksin", "position": "MID", "positionRaw": "RM", "rating": 82, "nation": "Türkiye", "rarity": null},
       {"number": 99, "name": "Gökhan Ünal", "position": "FWD", "positionRaw": "ST", "rating": 74, "nation": "Türkiye", "rarity": null}
     ]
   },
@@ -6433,19 +6002,31 @@
     "era": "2010lar",
     "players": [
       {"number": 9, "name": "Stanislav Sestak", "position": "FWD", "positionRaw": "ST", "rating": 78, "nation": "Slovakya", "rarity": null},
-      {"number": 11, "name": "Hurşut Meriç", "position": "MID", "positionRaw": "RM", "rating": 77, "nation": "Türkiye", "rarity": null},
+      {"number": 11, "name": "Serdar Özkan", "position": "MID", "positionRaw": "RM", "rating": 79, "nation": "Türkiye", "rarity": null},
       {"number": 4, "name": "Jan Rajnoch", "position": "DEF", "positionRaw": "CB", "rating": 77, "nation": "Çek Cumhuriyeti", "rarity": null},
       {"number": 21, "name": "Uğur Uçar", "position": "DEF", "positionRaw": "RB", "rating": 76, "nation": "Türkiye", "rarity": null},
+      {"number": 6, "name": "Selim TEber", "position": "MID", "positionRaw": "CM", "rating": 80, "nation": "Türkiye", "rarity": null},
       {"number": 10, "name": "Turgut Doğan Şahin", "position": "MID", "positionRaw": "LW", "rating": 76, "nation": "Türkiye", "rarity": null},
       {"number": 88, "name": "Korcan Çelikay", "position": "GK", "positionRaw": "GK", "rating": 76, "nation": "Türkiye", "rarity": null},
+      {"number": 1, "name": "Altay Bayındır", "position": "GK", "positionRaw": "GK", "rating": 84, "nation": "Türkiye", "rarity": null},
       {"number": 5, "name": "Aydın Toscalı", "position": "DEF", "positionRaw": "CB", "rating": 75, "nation": "Türkiye", "rarity": null},
       {"number": 7, "name": "Mehmet Çakır", "position": "MID", "positionRaw": "CAM", "rating": 75, "nation": "Türkiye", "rarity": null},
       {"number": 18, "name": "Dever Orgill", "position": "FWD", "positionRaw": "ST", "rating": 75, "nation": "Jamaika", "rarity": null},
+      {"number": 19, "name": "Özgür Çek", "position": "DEF", "positionRaw": "LB", "rating": 81, "nation": "Türkiye", "rarity": null},
+      {"number": 14, "name": "Michal Zewlakow", "position": "DEF", "positionRaw": "RB", "rating": 77, "nation": "Polonya", "rarity": null},
+      {"number": 22, "name": "Erdem Özgenç", "position": "DEF", "positionRaw": "RB", "rating": 78, "nation": "Türkiye", "rarity": null},
+      {"number": 77, "name": "Drago Gabrić", "position": "MID", "positionRaw": "LM", "rating": 75, "nation": "Hırvatistan", "rarity": null},
+      {"number": 27, "name": "Marek Sapara", "position": "MID", "positionRaw": "RM", "rating": 78, "nation": "Slovakya", "rarity": null},
+      {"number": 28, "name": "Moestafa El Kabir", "position": "MID", "positionRaw": "LW", "rating": 77, "nation": "Fas", "rarity": null},
+      {"number": 4, "name": "Ricardo Faty", "position": "MID", "positionRaw": "CDM", "rating": 75, "nation": "Senegal", "rarity": null},
       {"number": 2, "name": "Stelios Kitsiou", "position": "DEF", "positionRaw": "RB", "rating": 74, "nation": "Yunanistan", "rarity": null},
       {"number": 14, "name": "Tiago Pinto", "position": "DEF", "positionRaw": "LB", "rating": 74, "nation": "Portekiz", "rarity": null},
       {"number": 20, "name": "Umut Nayir", "position": "FWD", "positionRaw": "ST", "rating": 74, "nation": "Türkiye", "rarity": null},
       {"number": 13, "name": "Ediz Bahtiyaroğlu", "position": "DEF", "positionRaw": "CB", "rating": 73, "nation": "Türkiye", "rarity": null},
+      {"number": 23, "name": "İlhan Parlak", "position": "FWD", "positionRaw": "ST", "rating": 85, "nation": "Türkiye", "rarity": null},
+      {"number": 23, "name": "Sedat Ağçay", "position": "MID", "positionRaw": "CDM", "rating": 83, "nation": "Türkiye", "rarity": null},
       {"number": 22, "name": "Ante Kulušić", "position": "DEF", "positionRaw": "CB", "rating": 73, "nation": "Hırvatistan", "rarity": null},
+      {"number": 7, "name": "Tyler Boyd", "position": "MID", "positionRaw": "LM", "rating": 84, "nation": "Amerika B.D.", "rarity": null},
       {"number": 10, "name": "Oscar Scarione", "position": "MID", "positionRaw": "CAM", "rating": 73, "nation": "Arjantin", "rarity": null}
     ]
   },
@@ -6538,6 +6119,10 @@
     "era": "2010lar",
     "players": [
       {"number": 22, "name": "Vedat Muriqi", "position": "FWD", "positionRaw": "ST", "rating": 81, "nation": "Kosova", "rarity": null},
+      {"number": 4, "name": "Ousmane Viera", "position": "DEF", "positionRaw": "CB", "rating": 78, "nation": "Fildişi Sahili", "rarity": null},
+      {"number": 55, "name": "Eren Albayrak", "position": "DEF", "positionRaw": "LB", "rating": 78, "nation": "Türkiye", "rarity": null},
+      {"number": 3, "name": "Dario Melnjak", "position": "DEF", "positionRaw": "LB", "rating": 77, "nation": "Hırvatistan", "rarity": null},
+      {"number": 77, "name": "Orhan Ovacıklı", "position": "DEF", "positionRaw": "RB", "rating": 74, "nation": "Türkiye", "rarity": null},
       {"number": 9, "name": "Leonard Kweuke", "position": "FWD", "positionRaw": "ST", "rating": 79, "nation": "Kamerun", "rarity": null},
       {"number": 25, "name": "Gökhan Akkan", "position": "GK", "positionRaw": "GK", "rating": 78, "nation": "Türkiye", "rarity": null},
       {"number": 10, "name": "Fernando Boldrin", "position": "MID", "positionRaw": "CAM", "rating": 77, "nation": "Brezilya", "rarity": null},
@@ -6665,7 +6250,7 @@
   "players": [
     {"number": 45, "name": "Victor Osimhen", "position": "FWD", "positionRaw": "ST", "rating": 96, "nation": "Nijerya", "rarity": null},
     {"number": 99, "name": "Mauro Icardi", "position": "FWD", "positionRaw": "ST", "rating": 96, "nation": "Arjantin", "rarity": "hero"},
-    {"number": 10, "name": "Dries Mertens", "position": "MID", "positionRaw": "CAM", "rating": 93, "nation": "Belçika", "rarity": "hero"},
+    {"number": 10, "name": "Dries Mertens", "position": "MID", "positionRaw": "CAM", "rating": 93, "nation": "Belçika", "rarity": null},
     {"number": 19, "name": "Uğurcan Çakır", "position": "GK", "positionRaw": "GK", "rating": 93, "nation": "Türkiye", "rarity": null},
     {"number": 1, "name": "Fernando Muslera", "position": "GK", "positionRaw": "GK", "rating": 92, "nation": "Uruguay", "rarity": null},
     {"number": 34, "name": "Lucas Torreira", "position": "MID", "positionRaw": "CDM", "rating": 91, "nation": "Uruguay", "rarity": null},
@@ -6874,7 +6459,7 @@
   },
   {
     "team": "Adana Demirspor",
-    "era": "2020ler-Karma",
+    "era": "2020ler",
     "players": [
       {"number": 45, "name": "Mario Balotelli", "position": "FWD", "positionRaw": "ST", "rating": 86, "nation": "İtalya", "rarity": null},
       {"number": 10, "name": "Younès Belhanda", "position": "MID", "positionRaw": "CAM", "rating": 86, "nation": "Fas", "rarity": null},
@@ -6902,7 +6487,7 @@
   },
   {
     "team": "Sivasspor",
-    "era": "2020ler-Karma",
+    "era": "2020ler",
     "players": [
       {"number": 9, "name": "Rey Manaj", "position": "FWD", "positionRaw": "ST", "rating": 90, "nation": "Arnavutluk", "rarity": "hero"},
       {"number": 7, "name": "Max Gradel", "position": "FWD", "positionRaw": "LW", "rating": 89, "nation": "Fildişi Sahili", "rarity": "hero"},
@@ -6962,7 +6547,7 @@
     "players": [
       {"number": 16, "name": "Fabio Borini", "position": "FWD", "positionRaw": "LW", "rating": 89, "nation": "İtalya", "rarity": null},
       {"number": 9, "name": "Mbaye Diagne", "position": "FWD", "positionRaw": "ST", "rating": 88, "nation": "Senegal", "rarity": null},
-      {"number": 14, "name": "Emre Mor", "position": "MID", "positionRaw": "RW", "rating": 86, "nation": "Türkiye", "rarity": "hero"},
+      {"number": 14, "name": "Emre Mor", "position": "MID", "positionRaw": "RW", "rating": 86, "nation": "Türkiye", "rarity": null},
       {"number": 4, "name": "Davide Biraschi", "position": "DEF", "positionRaw": "CB", "rating": 85, "nation": "İtalya", "rarity": null},
       {"number": 13, "name": "Ivo Grbić", "position": "GK", "positionRaw": "GK", "rating": 85, "nation": "Hırvatistan", "rarity": null},
       {"number": 8, "name": "Berkay Özcan", "position": "MID", "positionRaw": "CM", "rating": 84, "nation": "Türkiye", "rarity": null},
@@ -6989,6 +6574,10 @@
     "era": "2020ler",
     "players": [
       {"number": 9, "name": "Papiss Cissé", "position": "FWD", "positionRaw": "ST", "rating": 88, "nation": "Senegal", "rarity": null},
+      {"number": 24, "name": "Juanfran", "position": "DEF", "positionRaw": "RB", "rating": 81, "nation": "İspanya", "rarity": null},
+      {"number": 21, "name": "Fabrice N'Sakala", "position": "DEF", "positionRaw": "LB", "rating": 80, "nation": "Demokratik Kongo Cumhuriyeti", "rarity": null},
+      {"number": 2, "name": "Florent Hadërgjonaj", "position": "DEF", "positionRaw": "RB", "rating": 78, "nation": "Kosova", "rarity": null},
+      {"number": 29, "name": "Jure Balkovec", "position": "DEF", "positionRaw": "LB", "rating": 79, "nation": "Slovenya", "rarity": null},
       {"number": 11, "name": "Tasos Bakasetas", "position": "MID", "positionRaw": "CAM", "rating": 87, "nation": "Yunanistan", "rarity": null},
       {"number": 7, "name": "Efecan Karaca", "position": "MID", "positionRaw": "RW", "rating": 86, "nation": "Türkiye", "rarity": null},
       {"number": 58, "name": "Maestro", "position": "MID", "positionRaw": "CDM", "rating": 85, "nation": "Angola", "rarity": null},
@@ -7147,75 +6736,90 @@
     "team": "Antalyaspor",
     "era": "2020ler",
     "players": [
-      {"number": 11, "name": "Lukas Podolski", "position": "FWD", "positionRaw": "ST", "rating": 79, "nation": "Almanya", "rarity": null},
-      {"number": 7, "name": "Bünyamin Balcı", "position": "DEF", "positionRaw": "RB", "rating": 83, "nation": "Türkiye", "rarity": null},
-      {"number": 10, "name": "Abdülkadir Ömür", "position": "MID", "positionRaw": "CAM", "rating": 82, "nation": "Türkiye", "rarity": null},
-      {"number": 3, "name": "Kenneth Paal", "position": "DEF", "positionRaw": "LB", "rating": 81, "nation": "Surinam", "rarity": null},
-      {"number": 30, "name": "Lautaro Giannetti", "position": "DEF", "positionRaw": "CB", "rating": 80, "nation": "Arjantin", "rarity": null},
-      {"number": 14, "name": "Georgiy Dzhikiya", "position": "DEF", "positionRaw": "CB", "rating": 80, "nation": "Rusya", "rarity": null},
-      {"number": 23, "name": "Jesper Ceesay", "position": "MID", "positionRaw": "CDM", "rating": 79, "nation": "Gambia", "rarity": null},
-      {"number": 8, "name": "Ramzi Safuri", "position": "MID", "positionRaw": "CAM", "rating": 79, "nation": "İsrail", "rarity": null},
-      {"number": 11, "name": "Samuel Ballet", "position": "MID", "positionRaw": "RW", "rating": 79, "nation": "İsviçre", "rarity": null},
-      {"number": 26, "name": "Nikola Storm", "position": "MID", "positionRaw": "LW", "rating": 79, "nation": "Belçika", "rarity": null},
-      {"number": 1, "name": "Julián Cuesta", "position": "GK", "positionRaw": "GK", "rating": 78, "nation": "İspanya", "rarity": null},
-      {"number": 70, "name": "Doğukan Sinik", "position": "MID", "positionRaw": "LW", "rating": 78, "nation": "Türkiye", "rarity": null},
-      {"number": 6, "name": "Soner Dikmen", "position": "MID", "positionRaw": "CM", "rating": 78, "nation": "Türkiye", "rarity": null},
-      {"number": 88, "name": "Dario Šarić", "position": "MID", "positionRaw": "CM", "rating": 78, "nation": "Hırvatistan", "rarity": null},
-      {"number": 21, "name": "Abdullah Yiğiter", "position": "GK", "positionRaw": "GK", "rating": 77, "nation": "Türkiye", "rarity": null},
-      {"number": 77, "name": "Yohan Boli", "position": "FWD", "positionRaw": "ST", "rating": 77, "nation": "Fildişi Sahili", "rarity": null},
-      {"number": 4, "name": "Hüseyin Türkmen", "position": "DEF", "positionRaw": "CB", "rating": 77, "nation": "Türkiye", "rarity": null},
+      {"number": 11, "name": "Lukas Podolski", "position": "FWD", "positionRaw": "ST", "rating": 83, "nation": "Almanya", "rarity": "flashback"},
+      {"number": 7, "name": "Bünyamin Balcı", "position": "DEF", "positionRaw": "RB", "rating": 82, "nation": "Türkiye", "rarity": null},
+      {"number": 20, "name": "Fernando Martins", "position": "MID", "positionRaw": "CDM", "rating": 81, "nation": "Brezilya", "rarity": null},
+      {"number": 10, "name": "Sam Larsson", "position": "MID", "positionRaw": "LM", "rating": 84, "nation": "İsveç", "rarity": null},
+      {"number": 13, "name": "Güray Vural", "position": "DEF", "positionRaw": "LB", "rating": 83, "nation": "Türkiye", "rarity": null},
+      {"number": 8, "name": "Ramzi Safuri", "position": "MID", "positionRaw": "CAM", "rating": 77, "nation": "İsrail", "rarity": null},
+      {"number": 11, "name": "Samuel Ballet", "position": "MID", "positionRaw": "RW", "rating": 75, "nation": "İsviçre", "rarity": null},
+      {"number": 26, "name": "Nikola Storm", "position": "MID", "positionRaw": "LW", "rating": 75, "nation": "Belçika", "rarity": null},
+      {"number": 1, "name": "Helton Leite", "position": "GK", "positionRaw": "GK", "rating": 78, "nation": "Brezilya", "rarity": null},
+      {"number": 70, "name": "Doğukan Sinik", "position": "MID", "positionRaw": "LW", "rating": 82, "nation": "Türkiye", "rarity": null},
+      {"number": 6, "name": "Soner Dikmen", "position": "MID", "positionRaw": "CM", "rating": 74, "nation": "Türkiye", "rarity": null},
+      {"number": 88, "name": "Dario Šarić", "position": "MID", "positionRaw": "CM", "rating": 75, "nation": "Hırvatistan", "rarity": null},
+      {"number": 21, "name": "Abdullah Yiğiter", "position": "GK", "positionRaw": "GK", "rating": 72, "nation": "Türkiye", "rarity": null},
+      {"number": 77, "name": "Yohan Boli", "position": "FWD", "positionRaw": "ST", "rating": 74, "nation": "Fildişi Sahili", "rarity": null},
       {"number": 89, "name": "Veysel Sarı", "position": "DEF", "positionRaw": "CB", "rating": 76, "nation": "Türkiye", "rarity": null},
-      {"number": 17, "name": "Erdoğan Yeşilyurt", "position": "DEF", "positionRaw": "RB", "rating": 76, "nation": "Türkiye", "rarity": null},
-      {"number": 22, "name": "Sander van de Streek", "position": "FWD", "positionRaw": "ST", "rating": 75, "nation": "Hollanda", "rarity": null}
+      {"number": 17, "name": "Erdoğan Yeşilyurt", "position": "DEF", "positionRaw": "RM", "rating": 84, "nation": "Türkiye", "rarity": null},
+      {"number": 22, "name": "Sander van de Streek", "position": "FWD", "positionRaw": "CAM", "rating": 75, "nation": "Hollanda", "rarity": null},
+      {"number": 2, "name": "Sherel Floranus", "position": "DEF", "positionRaw": "RB", "rating": 73, "nation": "Curaçao", "rarity": null},
+      {"number": 4, "name": "Ömer Toprak", "position": "DEF", "positionRaw": "CB", "rating": 80, "nation": "Türkiye", "rarity": null},
+      {"number": 5, "name": "Bahadır Öztürk", "position": "DEF", "positionRaw": "CB", "rating": 72, "nation": "Türkiye", "rarity": null},
+      {"number": 14, "name": "Admir Mehmedi", "position": "FWD", "positionRaw": "ST", "rating": 76, "nation": "İsviçre", "rarity": null},
+      {"number": 18, "name": "Jakub Kaluzinski", "position": "MID", "positionRaw": "CDM", "rating": 74, "nation": "Polonya", "rarity": null},
+      {"number": 9, "name": "Haji Wright", "position": "FWD", "positionRaw": "ST", "rating": 86, "nation": "ABD", "rarity": null},
+      {"number": 25, "name": "Ruud Boffin", "position": "GK", "positionRaw": "GK", "rating": 85, "nation": "Belçika", "rarity": null}
     ]
   },
   {
     "team": "Eyüpspor",
     "era": "2020ler",
     "players": [
-      {"number": 80, "name": "Emre Akbaba", "position": "MID", "positionRaw": "CAM", "rating": 83, "nation": "Türkiye", "rarity": null},
-      {"number": 9, "name": "Mame Thiam", "position": "FWD", "positionRaw": "ST", "rating": 83, "nation": "Senegal", "rarity": null},
-      {"number": 10, "name": "Samu Saiz", "position": "MID", "positionRaw": "CAM", "rating": 81, "nation": "İspanya", "rarity": null},
-      {"number": 7, "name": "Halil Akbunar", "position": "MID", "positionRaw": "RW", "rating": 80, "nation": "Türkiye", "rarity": null},
-      {"number": 5, "name": "Jonjo Shelvey", "position": "MID", "positionRaw": "CM", "rating": 80, "nation": "İngiltere", "rarity": null},
-      {"number": 4, "name": "Lucca Badaloni", "position": "DEF", "positionRaw": "CB", "rating": 79, "nation": "Arjantin", "rarity": null},
-      {"number": 1, "name": "Berke Özer", "position": "GK", "positionRaw": "GK", "rating": 88, "nation": "Türkiye", "rarity": null},
-      {"number": 23, "name": "Ahmed Kutucu", "position": "FWD", "positionRaw": "ST", "rating": 85, "nation": "Türkiye", "rarity": null},
-      {"number": 18, "name": "Fredrik Midtsjø", "position": "MID", "positionRaw": "CDM", "rating": 78, "nation": "Norveç", "rarity": null},
-      {"number": 57, "name": "Melih Kabasakal", "position": "MID", "positionRaw": "CDM", "rating": 77, "nation": "Türkiye", "rarity": null},
+      {"number": 80, "name": "Emre Akbaba", "position": "MID", "positionRaw": "CAM", "rating": 82, "nation": "Türkiye", "rarity": null},
+      {"number": 9, "name": "Mame Thiam", "position": "FWD", "positionRaw": "ST", "rating": 85, "nation": "Senegal", "rarity": null},
+      {"number": 10, "name": "Samu Saiz", "position": "MID", "positionRaw": "CAM", "rating": 78, "nation": "İspanya", "rarity": null},
+      {"number": 7, "name": "Halil Akbunar", "position": "MID", "positionRaw": "RW", "rating": 77, "nation": "Türkiye", "rarity": null},
+      {"number": 5, "name": "Jonjo Shelvey", "position": "MID", "positionRaw": "CM", "rating": 81, "nation": "İngiltere", "rarity": null},
+      {"number": 1, "name": "Berke Özer", "position": "GK", "positionRaw": "GK", "rating": 88, "nation": "Türkiye", "rarity": "future_star"},
+      {"number": 23, "name": "Ahmed Kutucu", "position": "FWD", "positionRaw": "ST", "rating": 80, "nation": "Türkiye", "rarity": null},
+      {"number": 18, "name": "Fredrik Midtsjø", "position": "MID", "positionRaw": "CDM", "rating": 77, "nation": "Norveç", "rarity": null},
+      {"number": 57, "name": "Melih Kabasakal", "position": "MID", "positionRaw": "CDM", "rating": 72, "nation": "Türkiye", "rarity": null},
       {"number": 22, "name": "Léo Dubois", "position": "DEF", "positionRaw": "RB", "rating": 77, "nation": "Fransa", "rarity": null},
-      {"number": 28, "name": "Rúben Vezo", "position": "DEF", "positionRaw": "CB", "rating": 77, "nation": "Portekiz", "rarity": null},
-      {"number": 77, "name": "Umut Meraş", "position": "DEF", "positionRaw": "LB", "rating": 76, "nation": "Türkiye", "rarity": null},
-      {"number": 15, "name": "Anastasios Chatzigiovanis", "position": "MID", "positionRaw": "LW", "rating": 76, "nation": "Yunanistan", "rarity": null},
-      {"number": 6, "name": "Robin Yalçın", "position": "MID", "positionRaw": "CDM", "rating": 75, "nation": "Türkiye", "rarity": null},
+      {"number": 28, "name": "Rúben Vezo", "position": "DEF", "positionRaw": "CB", "rating": 76, "nation": "Portekiz", "rarity": null},
+      {"number": 77, "name": "Umut Meraş", "position": "DEF", "positionRaw": "LB", "rating": 74, "nation": "Türkiye", "rarity": null},
+      {"number": 15, "name": "Anastasios Chatzigiovanis", "position": "MID", "positionRaw": "LW", "rating": 75, "nation": "Yunanistan", "rarity": null},
+      {"number": 6, "name": "Robin Yalçın", "position": "MID", "positionRaw": "CDM", "rating": 73, "nation": "Türkiye", "rarity": null},
       {"number": 33, "name": "Luccas Claro", "position": "DEF", "positionRaw": "CB", "rating": 75, "nation": "Brezilya", "rarity": null},
-      {"number": 99, "name": "Giannis Niarchos", "position": "FWD", "positionRaw": "ST", "rating": 74, "nation": "Yunanistan", "rarity": null},
-      {"number": 2, "name": "Vittorio Parigini", "position": "MID", "positionRaw": "RW", "rating": 74, "nation": "İtalya", "rarity": null},
-      {"number": 12, "name": "Birkan Tetik", "position": "GK", "positionRaw": "GK", "rating": 72, "nation": "Türkiye", "rarity": null}
+      {"number": 99, "name": "Giannis Niarchos", "position": "FWD", "positionRaw": "ST", "rating": 71, "nation": "Yunanistan", "rarity": null},
+      {"number": 2, "name": "Vittorio Parigini", "position": "MID", "positionRaw": "RW", "rating": 72, "nation": "İtalya", "rarity": null},
+      {"number": 12, "name": "Birkan Tetik", "position": "GK", "positionRaw": "GK", "rating": 69, "nation": "Türkiye", "rarity": null},
+      {"number": 4, "name": "Yalçın Kılınç", "position": "DEF", "positionRaw": "CB", "rating": 71, "nation": "Türkiye", "rarity": null},
+      {"number": 88, "name": "Caner Erkin", "position": "DEF", "positionRaw": "LB", "rating": 78, "nation": "Türkiye", "rarity": null},
+      {"number": 11, "name": "Ryan Babel", "position": "MID", "positionRaw": "LW", "rating": 76, "nation": "Hollanda", "rarity": null},
+      {"number": 20, "name": "Recep Niyaz", "position": "MID", "positionRaw": "CM", "rating": 73, "nation": "Türkiye", "rarity": null},
+      {"number": 90, "name": "Emeka Eze", "position": "FWD", "positionRaw": "ST", "rating": 74, "nation": "Nijerya", "rarity": null},
+      {"number": 26, "name": "Dorukhan Toköz", "position": "MID", "positionRaw": "CDM", "rating": 76, "nation": "Türkiye", "rarity": null}
     ]
   },
   {
     "team": "Göztepe",
     "era": "2020ler",
     "players": [
-      {"number": 9, "name": "Cherif Ndiaye", "position": "FWD", "positionRaw": "ST", "rating": 83, "nation": "Senegal", "rarity": null},
-      {"number": 10, "name": "David Tijanic", "position": "MID", "positionRaw": "CAM", "rating": 84, "nation": "Slovenya", "rarity": null},
-      {"number": 11, "name": "Juan", "position": "FWD", "positionRaw": "ST", "rating": 84, "nation": "Brezilya", "rarity": null},
-      {"number": 23, "name": "Yalçın Kayan", "position": "MID", "positionRaw": "CM", "rating": 78, "nation": "Türkiye", "rarity": null},
+      {"number": 9, "name": "Cherif Ndiaye", "position": "FWD", "positionRaw": "ST", "rating": 79, "nation": "Senegal", "rarity": null},
+      {"number": 10, "name": "David Tijanic", "position": "MID", "positionRaw": "CAM", "rating": 76, "nation": "Slovenya", "rarity": null},
+      {"number": 11, "name": "Juan", "position": "FWD", "positionRaw": "ST", "rating": 83, "nation": "Brezilya", "rarity": null},
+      {"number": 23, "name": "Yalçın Kayan", "position": "MID", "positionRaw": "CM", "rating": 75, "nation": "Türkiye", "rarity": null},
       {"number": 4, "name": "Taha Altıkardeş", "position": "DEF", "positionRaw": "CB", "rating": 78, "nation": "Türkiye", "rarity": null},
-      {"number": 1, "name": "Mateusz Lis", "position": "GK", "positionRaw": "GK", "rating": 85, "nation": "Polonya", "rarity": null},
-      {"number": 24, "name": "Lasse Nielsen", "position": "DEF", "positionRaw": "CB", "rating": 77, "nation": "Danimarka", "rarity": null},
-      {"number": 18, "name": "Rômulo", "position": "FWD", "positionRaw": "ST", "rating": 91, "nation": "Brezilya", "rarity": "hero"},
-      {"number": 21, "name": "Doğan Erdoğan", "position": "MID", "positionRaw": "CDM", "rating": 76, "nation": "Türkiye", "rarity": null},
+      {"number": 1, "name": "Mateusz Lis", "position": "GK", "positionRaw": "GK", "rating": 84, "nation": "Polonya", "rarity": null},
+      {"number": 24, "name": "Lasse Nielsen", "position": "DEF", "positionRaw": "CB", "rating": 74, "nation": "Danimarka", "rarity": null},
+      {"number": 18, "name": "Rômulo", "position": "FWD", "positionRaw": "ST", "rating": 89, "nation": "Brezilya", "rarity": "hero"},
+      {"number": 21, "name": "Doğan Erdoğan", "position": "MID", "positionRaw": "CDM", "rating": 78, "nation": "Türkiye", "rarity": null},
       {"number": 5, "name": "Heliton", "position": "DEF", "positionRaw": "CB", "rating": 76, "nation": "Brezilya", "rarity": null},
-      {"number": 17, "name": "Kuryu Matsuki", "position": "MID", "positionRaw": "CM", "rating": 76, "nation": "Japonya", "rarity": null},
-      {"number": 77, "name": "Ogün Özçiçek", "position": "MID", "positionRaw": "CDM", "rating": 76, "nation": "Türkiye", "rarity": null},
-      {"number": 30, "name": "Nazım Sangaré", "position": "DEF", "positionRaw": "RB", "rating": 75, "nation": "Türkiye", "rarity": null},
+      {"number": 17, "name": "Kuryu Matsuki", "position": "MID", "positionRaw": "CM", "rating": 75, "nation": "Japonya", "rarity": null},
+      {"number": 77, "name": "Ogün Özçiçek", "position": "MID", "positionRaw": "CDM", "rating": 75, "nation": "Türkiye", "rarity": null},
+      {"number": 30, "name": "Nazım Sangaré", "position": "DEF", "positionRaw": "RB", "rating": 81, "nation": "Türkiye", "rarity": null},
       {"number": 3, "name": "Djalma Silva", "position": "DEF", "positionRaw": "LB", "rating": 75, "nation": "Brezilya", "rarity": null},
-      {"number": 8, "name": "Ahmed Ildız", "position": "MID", "positionRaw": "CM", "rating": 74, "nation": "Türkiye", "rarity": null},
-      {"number": 70, "name": "Kubilay Kanatsızkuş", "position": "FWD", "positionRaw": "ST", "rating": 73, "nation": "Türkiye", "rarity": null},
-      {"number": 22, "name": "Arda Özçimen", "position": "GK", "positionRaw": "GK", "rating": 73, "nation": "Türkiye", "rarity": null},
-      {"number": 14, "name": "İsmail Köybaşı", "position": "DEF", "positionRaw": "LB", "rating": 72, "nation": "Türkiye", "rarity": null}
+      {"number": 8, "name": "Ahmed Ildız", "position": "MID", "positionRaw": "CM", "rating": 71, "nation": "Türkiye", "rarity": null},
+      {"number": 70, "name": "Kubilay Kanatsızkuş", "position": "FWD", "positionRaw": "ST", "rating": 70, "nation": "Türkiye", "rarity": null},
+      {"number": 22, "name": "Arda Özçimen", "position": "GK", "positionRaw": "GK", "rating": 71, "nation": "Türkiye", "rarity": null},
+      {"number": 14, "name": "İsmail Köybaşı", "position": "DEF", "positionRaw": "LB", "rating": 76, "nation": "Türkiye", "rarity": null},
+      {"number": 7, "name": "Halil Akbunar", "position": "MID", "positionRaw": "RW", "rating": 79, "nation": "Türkiye", "rarity": null},
+      {"number": 99, "name": "Adis Jahovic", "position": "FWD", "positionRaw": "ST", "rating": 82, "nation": "Kuzey Makedonya", "rarity": null},
+      {"number": 32, "name": "Dino Arslanagic", "position": "DEF", "positionRaw": "CB", "rating": 73, "nation": "Belçika", "rarity": null},
+      {"number": 20, "name": "Malcom Bokele", "position": "DEF", "positionRaw": "RB", "rating": 74, "nation": "Kamerun", "rarity": null},
+      {"number": 15, "name": "Anthony Dennis", "position": "MID", "positionRaw": "CDM", "rating": 82, "nation": "Nijerya", "rarity": null},
+      {"number": 13, "name": "Beto", "position": "GK", "positionRaw": "GK", "rating": 81, "nation": "Portekiz", "rarity": null}
     ]
   },
   {
@@ -7223,110 +6827,148 @@
     "era": "2020ler",
     "players": [
       {"number": 8, "name": "Jonjo Shelvey", "position": "MID", "positionRaw": "CM", "rating": 83, "nation": "İngiltere", "rarity": null},
-      {"number": 7, "name": "Benhur Keser", "position": "MID", "positionRaw": "RW", "rating": 80, "nation": "Türkiye", "rarity": null},
-      {"number": 9, "name": "Adolfo Gaich", "position": "FWD", "positionRaw": "ST", "rating": 79, "nation": "Arjantin", "rarity": null},
+      {"number": 7, "name": "Benhur Keser", "position": "MID", "positionRaw": "RW", "rating": 75, "nation": "Türkiye", "rarity": null},
+      {"number": 9, "name": "Adolfo Gaich", "position": "FWD", "positionRaw": "ST", "rating": 77, "nation": "Arjantin", "rarity": null},
       {"number": 10, "name": "Ibrahim Olawoyin", "position": "MID", "positionRaw": "CAM", "rating": 82, "nation": "Nijerya", "rarity": null},
-      {"number": 5, "name": "Husniddin Aliqulov", "position": "DEF", "positionRaw": "CB", "rating": 78, "nation": "Özbekistan", "rarity": null},
-      {"number": 53, "name": "Emirhan Topçu", "position": "DEF", "positionRaw": "CB", "rating": 80, "nation": "Türkiye", "rarity": null},
-      {"number": 1, "name": "Gökhan Akkan", "position": "GK", "positionRaw": "GK", "rating": 78, "nation": "Türkiye", "rarity": null},
+      {"number": 5, "name": "Husniddin Aliqulov", "position": "DEF", "positionRaw": "CB", "rating": 77, "nation": "Özbekistan", "rarity": null},
+      {"number": 53, "name": "Emirhan Topçu", "position": "DEF", "positionRaw": "CB", "rating": 82, "nation": "Türkiye", "rarity": null},
+      {"number": 1, "name": "Gökhan Akkan", "position": "GK", "positionRaw": "GK", "rating": 76, "nation": "Türkiye", "rarity": null},
       {"number": 20, "name": "Dal Varesanovic", "position": "MID", "positionRaw": "CM", "rating": 77, "nation": "Bosna Hersek", "rarity": null},
-      {"number": 4, "name": "Attila Mocsi", "position": "DEF", "positionRaw": "CB", "rating": 77, "nation": "Macaristan", "rarity": null},
-      {"number": 77, "name": "Altin Zeqiri", "position": "MID", "positionRaw": "LW", "rating": 77, "nation": "Kosova", "rarity": null},
-      {"number": 2, "name": "Muhammet Taha Şahin", "position": "DEF", "positionRaw": "RB", "rating": 76, "nation": "Türkiye", "rarity": null},
-      {"number": 6, "name": "Giannis Papanikolaou", "position": "MID", "positionRaw": "CDM", "rating": 76, "nation": "Yunanistan", "rarity": null},
-      {"number": 11, "name": "Gustavo Sauer", "position": "MID", "positionRaw": "RW", "rating": 76, "nation": "Brezilya", "rarity": null},
-      {"number": 3, "name": "Halil İbrahim Pehlivan", "position": "DEF", "positionRaw": "LB", "rating": 75, "nation": "Türkiye", "rarity": null},
-      {"number": 14, "name": "Martin Minchev", "position": "FWD", "positionRaw": "ST", "rating": 75, "nation": "Bulgaristan", "rarity": null},
-      {"number": 21, "name": "Tarık Çetin", "position": "GK", "positionRaw": "GK", "rating": 74, "nation": "Türkiye", "rarity": null},
-      {"number": 16, "name": "Anıl Yaşar", "position": "DEF", "positionRaw": "CB", "rating": 74, "nation": "Türkiye", "rarity": null},
-      {"number": 28, "name": "Eray Korkmaz", "position": "DEF", "positionRaw": "RB", "rating": 72, "nation": "Türkiye", "rarity": null}
+      {"number": 4, "name": "Attila Mocsi", "position": "DEF", "positionRaw": "CB", "rating": 74, "nation": "Macaristan", "rarity": null},
+      {"number": 77, "name": "Altin Zeqiri", "position": "MID", "positionRaw": "LW", "rating": 75, "nation": "Kosova", "rarity": null},
+      {"number": 2, "name": "Muhammet Taha Şahin", "position": "DEF", "positionRaw": "RB", "rating": 74, "nation": "Türkiye", "rarity": null},
+      {"number": 6, "name": "Giannis Papanikolaou", "position": "MID", "positionRaw": "CDM", "rating": 73, "nation": "Yunanistan", "rarity": null},
+      {"number": 11, "name": "Gustavo Sauer", "position": "MID", "positionRaw": "RW", "rating": 75, "nation": "Brezilya", "rarity": null},
+      {"number": 3, "name": "Halil İbrahim Pehlivan", "position": "DEF", "positionRaw": "LB", "rating": 71, "nation": "Türkiye", "rarity": null},
+      {"number": 14, "name": "Martin Minchev", "position": "FWD", "positionRaw": "ST", "rating": 73, "nation": "Bulgaristan", "rarity": null},
+      {"number": 21, "name": "Tarık Çetin", "position": "GK", "positionRaw": "GK", "rating": 71, "nation": "Türkiye", "rarity": null},
+      {"number": 16, "name": "Anıl Yaşar", "position": "DEF", "positionRaw": "CB", "rating": 70, "nation": "Türkiye", "rarity": null},
+      {"number": 28, "name": "Eray Korkmaz", "position": "DEF", "positionRaw": "RB", "rating": 68, "nation": "Türkiye", "rarity": null},
+      {"number": 18, "name": "Yannick Bolasie", "position": "MID", "positionRaw": "LW", "rating": 81, "nation": "Demokratik Kongo", "rarity": null},
+      {"number": 90, "name": "Joel Pohjanpalo", "position": "FWD", "positionRaw": "ST", "rating": 81, "nation": "Finlandiya", "rarity": null},
+      {"number": 23, "name": "Gökhan Gönül", "position": "DEF", "positionRaw": "RB", "rating": 77, "nation": "Türkiye", "rarity": null},
+      {"number": 50, "name": "Aminu Umar", "position": "MID", "positionRaw": "RW", "rating": 73, "nation": "Nijerya", "rarity": null},
+      {"number": 35, "name": "Alper Potuk", "position": "MID", "positionRaw": "CM", "rating": 72, "nation": "Türkiye", "rarity": null},
+      {"number": 30, "name": "Casper Höjer", "position": "DEF", "positionRaw": "LB", "rating": 75, "nation": "Danimarka", "rarity": null}
     ]
   },
   {
     "team": "Kayserispor",
     "era": "2020ler",
     "players": [
-      {"number": 7, "name": "Miguel Cardoso", "position": "MID", "positionRaw": "LW", "rating": 82, "nation": "Portekiz", "rarity": null},
-      {"number": 28, "name": "Joseph Attamah", "position": "DEF", "positionRaw": "CB", "rating": 79, "nation": "Gana", "rarity": null},
-      {"number": 9, "name": "Duckens Nazon", "position": "FWD", "positionRaw": "ST", "rating": 79, "nation": "Haiti", "rarity": null},
-      {"number": 10, "name": "Mehdi Bourabia", "position": "MID", "positionRaw": "CM", "rating": 79, "nation": "Fas", "rarity": null},
-      {"number": 11, "name": "Gökhan Sazdağı", "position": "MID", "positionRaw": "RW", "rating": 78, "nation": "Türkiye", "rarity": null},
-      {"number": 5, "name": "Majid Hosseini", "position": "DEF", "positionRaw": "CB", "rating": 78, "nation": "İran", "rarity": null},
-      {"number": 25, "name": "Bilal Bayazit", "position": "GK", "positionRaw": "GK", "rating": 78, "nation": "Türkiye", "rarity": null},
-      {"number": 77, "name": "Aylton Boa Morte", "position": "MID", "positionRaw": "RW", "rating": 77, "nation": "Portekiz", "rarity": null},
-      {"number": 23, "name": "Lionel Carole", "position": "DEF", "positionRaw": "LB", "rating": 77, "nation": "Fransa", "rarity": null},
-      {"number": 6, "name": "Ali Karimi", "position": "MID", "positionRaw": "CDM", "rating": 77, "nation": "İran", "rarity": null},
-      {"number": 33, "name": "Arif Kocaman", "position": "DEF", "positionRaw": "CB", "rating": 76, "nation": "Türkiye", "rarity": null},
-      {"number": 16, "name": "Eray Özbek", "position": "MID", "positionRaw": "CM", "rating": 75, "nation": "Türkiye", "rarity": null},
-      {"number": 1, "name": "Onurcan Piri", "position": "GK", "positionRaw": "GK", "rating": 74, "nation": "Türkiye", "rarity": null},
-      {"number": 2, "name": "Ramazan Civelek", "position": "DEF", "positionRaw": "RB", "rating": 74, "nation": "Türkiye", "rarity": null},
-      {"number": 70, "name": "Baran Ali Gezek", "position": "MID", "positionRaw": "CAM", "rating": 73, "nation": "Türkiye", "rarity": null},
-      {"number": 19, "name": "Talha Sarıaslan", "position": "FWD", "positionRaw": "ST", "rating": 72, "nation": "Türkiye", "rarity": null},
-      {"number": 4, "name": "Dimitrios Kolovetsios", "position": "DEF", "positionRaw": "CB", "rating": 72, "nation": "Yunanistan", "rarity": null}
+      {"number": 7, "name": "Miguel Cardoso", "position": "MID", "positionRaw": "LW", "rating": 79, "nation": "Portekiz", "rarity": null},
+      {"number": 28, "name": "Joseph Attamah", "position": "DEF", "positionRaw": "CB", "rating": 77, "nation": "Gana", "rarity": null},
+      {"number": 9, "name": "Duckens Nazon", "position": "FWD", "positionRaw": "ST", "rating": 76, "nation": "Haiti", "rarity": null},
+      {"number": 10, "name": "Mehdi Bourabia", "position": "MID", "positionRaw": "CM", "rating": 76, "nation": "Fas", "rarity": null},
+      {"number": 11, "name": "Gökhan Sazdağı", "position": "MID", "positionRaw": "RM", "rating": 80, "nation": "Türkiye", "rarity": null},
+      {"number": 5, "name": "Majid Hosseini", "position": "DEF", "positionRaw": "CB", "rating": 76, "nation": "İran", "rarity": null},
+      {"number": 25, "name": "Bilal Bayazit", "position": "GK", "positionRaw": "GK", "rating": 80, "nation": "Türkiye", "rarity": null},
+      {"number": 77, "name": "Aylton Boa Morte", "position": "MID", "positionRaw": "RW", "rating": 74, "nation": "Portekiz", "rarity": null},
+      {"number": 23, "name": "Lionel Carole", "position": "DEF", "positionRaw": "LB", "rating": 73, "nation": "Fransa", "rarity": null},
+      {"number": 6, "name": "Ali Karimi", "position": "MID", "positionRaw": "CDM", "rating": 75, "nation": "İran", "rarity": null},
+      {"number": 33, "name": "Arif Kocaman", "position": "DEF", "positionRaw": "CB", "rating": 73, "nation": "Türkiye", "rarity": null},
+      {"number": 43, "name": "Bernard Mensah", "position": "MID", "positionRaw": "CAM", "rating": 85, "nation": "Gana", "rarity": null},
+      {"number": 16, "name": "Eray Özbek", "position": "MID", "positionRaw": "CM", "rating": 70, "nation": "Türkiye", "rarity": null},
+      {"number": 1, "name": "Onurcan Piri", "position": "GK", "positionRaw": "GK", "rating": 70, "nation": "Türkiye", "rarity": null},
+      {"number": 2, "name": "Ramazan Civelek", "position": "DEF", "positionRaw": "RB", "rating": 73, "nation": "Türkiye", "rarity": null},
+      {"number": 70, "name": "Baran Ali Gezek", "position": "MID", "positionRaw": "CAM", "rating": 70, "nation": "Türkiye", "rarity": null},
+      {"number": 19, "name": "Talha Sarıaslan", "position": "FWD", "positionRaw": "ST", "rating": 69, "nation": "Türkiye", "rarity": null},
+      {"number": 12, "name": "Silviu Lung Jr.", "position": "GK", "positionRaw": "GK", "rating": 81, "nation": "Romanya", "rarity": null},
+      {"number": 4, "name": "Dimitrios Kolovetsios", "position": "DEF", "positionRaw": "CB", "rating": 71, "nation": "Yunanistan", "rarity": null},
+      {"number": 27, "name": "Mame Thiam", "position": "FWD", "positionRaw": "ST", "rating": 84, "nation": "Senegal", "rarity": null},
+      {"number": 20, "name": "Carlos Mané", "position": "MID", "positionRaw": "RW", "rating": 84, "nation": "Portekiz", "rarity": null},
+      {"number": 17, "name": "Anthony Uzodimma", "position": "DEF", "positionRaw": "RB", "rating": 71, "nation": "Nijerya", "rarity": null},
+      {"number": 8, "name": "Olivier Kemen", "position": "MID", "positionRaw": "CM", "rating": 76, "nation": "Kamerun", "rarity": null},
+      {"number": 3, "name": "Joseph Larweh Attamah", "position": "DEF", "positionRaw": "CB", "rating": 72, "nation": "Gana", "rarity": null}
     ]
   },
   {
     "team": "Kocaelispor",
     "era": "2020ler",
     "players": [
-      {"number": 10, "name": "Daniel Candeias", "position": "MID", "positionRaw": "RW", "rating": 80, "nation": "Portekiz", "rarity": null},
-      {"number": 4, "name": "Aaron Appindangoyé", "position": "DEF", "positionRaw": "CB", "rating": 78, "nation": "Gabon", "rarity": null},
-      {"number": 9, "name": "Marcão", "position": "FWD", "positionRaw": "ST", "rating": 78, "nation": "Brezilya", "rarity": null},
-      {"number": 8, "name": "Pedrinho", "position": "MID", "positionRaw": "CAM", "rating": 77, "nation": "Portekiz", "rarity": null},
-      {"number": 7, "name": "Ryan Mendes", "position": "MID", "positionRaw": "LW", "rating": 77, "nation": "Yeşil Burun Adaları", "rarity": null},
-      {"number": 1, "name": "Harun Tekin", "position": "GK", "positionRaw": "GK", "rating": 76, "nation": "Türkiye", "rarity": null},
-      {"number": 15, "name": "Josip Vuković", "position": "MID", "positionRaw": "CDM", "rating": 76, "nation": "Hırvatistan", "rarity": null},
-      {"number": 5, "name": "Tarkan Serbest", "position": "DEF", "positionRaw": "CB", "rating": 75, "nation": "Türkiye", "rarity": null},
-      {"number": 3, "name": "Haşim Sarman", "position": "DEF", "positionRaw": "CB", "rating": 74, "nation": "Türkiye", "rarity": null},
-      {"number": 32, "name": "Mehmet Yılmaz", "position": "DEF", "positionRaw": "RB", "rating": 74, "nation": "Türkiye", "rarity": null},
+      {"number": 10, "name": "Daniel Candeias", "position": "MID", "positionRaw": "RW", "rating": 76, "nation": "Portekiz", "rarity": null},
+      {"number": 4, "name": "Aaron Appindangoyé", "position": "DEF", "positionRaw": "CB", "rating": 75, "nation": "Gabon", "rarity": null},
+      {"number": 9, "name": "Marcão", "position": "FWD", "positionRaw": "ST", "rating": 77, "nation": "Brezilya", "rarity": null},
+      {"number": 8, "name": "Pedrinho", "position": "MID", "positionRaw": "CAM", "rating": 76, "nation": "Portekiz", "rarity": null},
+      {"number": 7, "name": "Ryan Mendes", "position": "MID", "positionRaw": "LW", "rating": 76, "nation": "Yeşil Burun Adaları", "rarity": null},
+      {"number": 1, "name": "Harun Tekin", "position": "GK", "positionRaw": "GK", "rating": 74, "nation": "Türkiye", "rarity": null},
+      {"number": 15, "name": "Josip Vuković", "position": "MID", "positionRaw": "CDM", "rating": 73, "nation": "Hırvatistan", "rarity": null},
+      {"number": 5, "name": "Tarkan Serbest", "position": "DEF", "positionRaw": "CB", "rating": 73, "nation": "Türkiye", "rarity": null},
+      {"number": 3, "name": "Haşim Sarman", "position": "DEF", "positionRaw": "CB", "rating": 69, "nation": "Türkiye", "rarity": null},
+      {"number": 32, "name": "Mehmet Yılmaz", "position": "DEF", "positionRaw": "RB", "rating": 71, "nation": "Türkiye", "rarity": null},
       {"number": 21, "name": "Ahmet Oğuz", "position": "DEF", "positionRaw": "RB", "rating": 74, "nation": "Türkiye", "rarity": null},
-      {"number": 11, "name": "Mijo Caktaš", "position": "MID", "positionRaw": "CAM", "rating": 74, "nation": "Hırvatistan", "rarity": null},
-      {"number": 17, "name": "Oğulcan Çağlayan", "position": "FWD", "positionRaw": "ST", "rating": 73, "nation": "Türkiye", "rarity": null},
-      {"number": 19, "name": "Yusuf Cihat Çelik", "position": "MID", "positionRaw": "CM", "rating": 73, "nation": "Türkiye", "rarity": null},
-      {"number": 88, "name": "Furukan Gedik", "position": "MID", "positionRaw": "LW", "rating": 71, "nation": "Türkiye", "rarity": null},
-      {"number": 35, "name": "Gökhan Değirmenci", "position": "GK", "positionRaw": "GK", "rating": 71, "nation": "Türkiye", "rarity": null}
+      {"number": 11, "name": "Mijo Caktaš", "position": "MID", "positionRaw": "CAM", "rating": 75, "nation": "Hırvatistan", "rarity": null},
+      {"number": 17, "name": "Oğulcan Çağlayan", "position": "FWD", "positionRaw": "ST", "rating": 75, "nation": "Türkiye", "rarity": null},
+      {"number": 19, "name": "Yusuf Cihat Çelik", "position": "MID", "positionRaw": "CM", "rating": 72, "nation": "Türkiye", "rarity": null},
+      {"number": 88, "name": "Furukan Gedik", "position": "MID", "positionRaw": "LW", "rating": 68, "nation": "Türkiye", "rarity": null},
+      {"number": 35, "name": "Gökhan Değirmenci", "position": "GK", "positionRaw": "GK", "rating": 71, "nation": "Türkiye", "rarity": null},
+      {"number": 14, "name": "Giorgi Beridze", "position": "MID", "positionRaw": "LW", "rating": 74, "nation": "Gürcistan", "rarity": null},
+      {"number": 99, "name": "Dino Ndlovu", "position": "FWD", "positionRaw": "ST", "rating": 75, "nation": "Güney Afrika", "rarity": null},
+      {"number": 55, "name": "Yusuf Abdioğlu", "position": "DEF", "positionRaw": "CB", "rating": 72, "nation": "Türkiye", "rarity": null},
+      {"number": 41, "name": "Atila Turan", "position": "DEF", "positionRaw": "LB", "rating": 73, "nation": "Türkiye", "rarity": null},
+      {"number": 23, "name": "Benhur Keser", "position": "MID", "positionRaw": "RW", "rating": 74, "nation": "Türkiye", "rarity": null},
+      {"number": 6, "name": "Yunus Emre Gedik", "position": "DEF", "positionRaw": "LB", "rating": 70, "nation": "Türkiye", "rarity": null},
+      {"number": 70, "name": "Barış Alıcı", "position": "MID", "positionRaw": "RW", "rating": 73, "nation": "Türkiye", "rarity": null},
+      {"number": 22, "name": "Mesut Can Tunalı", "position": "MID", "positionRaw": "CM", "rating": 70, "nation": "Türkiye", "rarity": null}
     ]
   },
   {
     "team": "Gençlerbirliği",
     "era": "2020ler",
     "players": [
-      {"number": 10, "name": "Amilton", "position": "MID", "positionRaw": "LW", "rating": 79, "nation": "Brezilya", "rarity":null},
-      {"number": 1, "name": "Orkun Özdemir", "position": "GK", "positionRaw": "GK", "rating": 76, "nation": "Türkiye", "rarity": null},
-      {"number": 9, "name": "Melih Bostan", "position": "FWD", "positionRaw": "ST", "rating": 76, "nation": "Türkiye", "rarity": null},
-      {"number": 5, "name": "Chukwuma Akabueze", "position": "MID", "positionRaw": "LW", "rating": 75, "nation": "Nijerya", "rarity": null},
-      {"number": 17, "name": "Yasin Güreler", "position": "DEF", "positionRaw": "LB", "rating": 74, "nation": "Türkiye", "rarity": null},
-      {"number": 22, "name": "Alperen Babacan", "position": "DEF", "positionRaw": "CB", "rating": 74, "nation": "Türkiye", "rarity": null},
-      {"number": 4, "name": "Sinan Osmanoğlu", "position": "DEF", "positionRaw": "CB", "rating": 74, "nation": "Türkiye", "rarity": null},
-      {"number": 8, "name": "Ensar Kemaloğlu", "position": "MID", "positionRaw": "CM", "rating": 73, "nation": "Türkiye", "rarity": null},
-      {"number": 6, "name": "Mikail Okyar", "position": "MID", "positionRaw": "CDM", "rating": 73, "nation": "Türkiye", "rarity": null},
+      {"number": 10, "name": "Amilton", "position": "MID", "positionRaw": "LW", "rating": 76, "nation": "Brezilya", "rarity": null},
+      {"number": 1, "name": "Orkun Özdemir", "position": "GK", "positionRaw": "GK", "rating": 73, "nation": "Türkiye", "rarity": null},
+      {"number": 9, "name": "Melih Bostan", "position": "FWD", "positionRaw": "ST", "rating": 74, "nation": "Türkiye", "rarity": null},
+      {"number": 5, "name": "Chukwuma Akabueze", "position": "MID", "positionRaw": "LW", "rating": 72, "nation": "Nijerya", "rarity": null},
+      {"number": 17, "name": "Yasin Güreler", "position": "DEF", "positionRaw": "LB", "rating": 71, "nation": "Türkiye", "rarity": null},
+      {"number": 22, "name": "Alperen Babacan", "position": "DEF", "positionRaw": "CB", "rating": 73, "nation": "Türkiye", "rarity": null},
+      {"number": 4, "name": "Sinan Osmanoğlu", "position": "DEF", "positionRaw": "CB", "rating": 71, "nation": "Türkiye", "rarity": null},
+      {"number": 8, "name": "Ensar Kemaloğlu", "position": "MID", "positionRaw": "CM", "rating": 69, "nation": "Türkiye", "rarity": null},
+      {"number": 6, "name": "Mikail Okyar", "position": "MID", "positionRaw": "CDM", "rating": 71, "nation": "Türkiye", "rarity": null},
       {"number": 20, "name": "Aias Aosman", "position": "MID", "positionRaw": "CAM", "rating": 73, "nation": "Suriye", "rarity": null},
-      {"number": 14, "name": "Metehan Mimaroğlu", "position": "MID", "positionRaw": "RW", "rating": 73, "nation": "Türkiye", "rarity": null},
-      {"number": 7, "name": "Mustafa Yatabaré", "position": "FWD", "positionRaw": "ST", "rating": 72, "nation": "Mali", "rarity": null},
+      {"number": 14, "name": "Metehan Mimaroğlu", "position": "MID", "positionRaw": "RW", "rating": 72, "nation": "Türkiye", "rarity": null},
+      {"number": 7, "name": "Mustafa Yatabaré", "position": "FWD", "positionRaw": "ST", "rating": 73, "nation": "Mali", "rarity": null},
       {"number": 15, "name": "Žan Žužek", "position": "DEF", "positionRaw": "CB", "rating": 72, "nation": "Slovenya", "rarity": null},
-      {"number": 2, "name": "Furkan Şeker", "position": "DEF", "positionRaw": "RB", "rating": 71, "nation": "Türkiye", "rarity": null},
-      {"number": 18, "name": "Elias Durmaz", "position": "MID", "positionRaw": "RW", "rating": 70, "nation": "İsveç", "rarity": null}
+      {"number": 2, "name": "Furkan Şeker", "position": "DEF", "positionRaw": "RB", "rating": 68, "nation": "Türkiye", "rarity": null},
+      {"number": 18, "name": "Elias Durmaz", "position": "MID", "positionRaw": "RW", "rating": 68, "nation": "İsveç", "rarity": null},
+      {"number": 23, "name": "Robert Piris da Motta", "position": "MID", "positionRaw": "CDM", "rating": 75, "nation": "Paraguay", "rarity": null},
+      {"number": 21, "name": "Daniel Candeias", "position": "MID", "positionRaw": "RW", "rating": 75, "nation": "Portekiz", "rarity": null},
+      {"number": 12, "name": "Kristoffer Nordfeldt", "position": "GK", "positionRaw": "GK", "rating": 76, "nation": "İsveç", "rarity": null},
+      {"number": 61, "name": "Zargo Touré", "position": "DEF", "positionRaw": "CB", "rating": 73, "nation": "Senegal", "rarity": null},
+      {"number": 3, "name": "Halil İbrahim Pehlivan", "position": "DEF", "positionRaw": "LB", "rating": 71, "nation": "Türkiye", "rarity": null},
+      {"number": 24, "name": "Arda Kızıldağ", "position": "DEF", "positionRaw": "CB", "rating": 73, "nation": "Türkiye", "rarity": null},
+      {"number": 28, "name": "Oğulcan Ülgün", "position": "MID", "positionRaw": "CM", "rating": 78, "nation": "Türkiye", "rarity": null},
+      {"number": 19, "name": "Sandro Lima", "position": "FWD", "positionRaw": "ST", "rating": 74, "nation": "Brezilya", "rarity": null},
+      {"number": 88, "name": "Murat Yıldırım", "position": "MID", "positionRaw": "CM", "rating": 70, "nation": "Türkiye", "rarity": null}
     ]
   },
   {
     "team": "Giresunspor",
     "era": "2020ler",
     "players": [
-      {"number": 10, "name": "Serginho", "position": "MID", "positionRaw": "LW", "rating": 80, "nation": "Brezilya", "rarity":null},
-      {"number": 1, "name": "Okan Kocuk", "position": "GK", "positionRaw": "GK", "rating": 82, "nation": "Türkiye", "rarity": null},
+      {"number": 10, "name": "Serginho", "position": "MID", "positionRaw": "LW", "rating": 81, "nation": "Brezilya", "rarity": null},
+      {"number": 1, "name": "Okan Kocuk", "position": "GK", "positionRaw": "GK", "rating": 80, "nation": "Türkiye", "rarity": null},
       {"number": 7, "name": "Borja Sainz", "position": "MID", "positionRaw": "RW", "rating": 83, "nation": "İspanya", "rarity": null},
-      {"number": 9, "name": "Riad Bajić", "position": "FWD", "positionRaw": "ST", "rating": 78, "nation": "Bosna Hersek", "rarity": null},
-      {"number": 26, "name": "Görkem Sağlam", "position": "MID", "positionRaw": "CM", "rating": 77, "nation": "Türkiye", "rarity": null},
+      {"number": 9, "name": "Riad Bajić", "position": "FWD", "positionRaw": "ST", "rating": 76, "nation": "Bosna Hersek", "rarity": null},
+      {"number": 26, "name": "Görkem Sağlam", "position": "MID", "positionRaw": "CM", "rating": 74, "nation": "Türkiye", "rarity": null},
       {"number": 4, "name": "Alexis Pérez", "position": "DEF", "positionRaw": "CB", "rating": 76, "nation": "Kolombiya", "rarity": null},
-      {"number": 5, "name": "Faustin Senghor", "position": "DEF", "positionRaw": "CB", "rating": 75, "nation": "Senegal", "rarity": null},
+      {"number": 5, "name": "Faustin Senghor", "position": "DEF", "positionRaw": "CB", "rating": 71, "nation": "Senegal", "rarity": null},
       {"number": 14, "name": "Robert Mejía", "position": "MID", "positionRaw": "CDM", "rating": 75, "nation": "Kolombiya", "rarity": null},
-      {"number": 17, "name": "Umut Nayir", "position": "FWD", "positionRaw": "ST", "rating": 75, "nation": "Türkiye", "rarity": null},
-      {"number": 22, "name": "Hayrullah Bilazer", "position": "DEF", "positionRaw": "RB", "rating": 74, "nation": "Türkiye", "rarity": null},
-      {"number": 19, "name": "Vukan Savićević", "position": "MID", "positionRaw": "CM", "rating": 74, "nation": "Karadağ", "rarity": null},
-      {"number": 3, "name": "Alperen Şengün", "position": "DEF", "positionRaw": "LB", "rating": 73, "nation": "Türkiye", "rarity": null},
-      {"number": 21, "name": "Erkan Anapa", "position": "GK", "positionRaw": "GK", "rating": 71, "nation": "Türkiye", "rarity": null},
-      {"number": 28, "name": "Erol Can Akdağ", "position": "MID", "positionRaw": "CDM", "rating": 70, "nation": "Türkiye", "rarity": null},
-      {"number": 77, "name": "Şahin Dik", "position": "MID", "positionRaw": "LW", "rating": 69, "nation": "Türkiye", "rarity": null}
+      {"number": 17, "name": "Umut Nayir", "position": "FWD", "positionRaw": "ST", "rating": 79, "nation": "Türkiye", "rarity": null},
+      {"number": 22, "name": "Hayrullah Bilazer", "position": "DEF", "positionRaw": "RB", "rating": 72, "nation": "Türkiye", "rarity": null},
+      {"number": 19, "name": "Vukan Savićević", "position": "MID", "positionRaw": "CM", "rating": 72, "nation": "Karadağ", "rarity": null},
+      {"number": 3, "name": "Alper Uludağ", "position": "DEF", "positionRaw": "LB", "rating": 73, "nation": "Türkiye", "rarity": null},
+      {"number": 21, "name": "Erkan Anapa", "position": "GK", "positionRaw": "GK", "rating": 68, "nation": "Türkiye", "rarity": null},
+      {"number": 28, "name": "Erol Can Akdağ", "position": "MID", "positionRaw": "CDM", "rating": 68, "nation": "Türkiye", "rarity": null},
+      {"number": 77, "name": "Şahin Dik", "position": "MID", "positionRaw": "LW", "rating": 67, "nation": "Türkiye", "rarity": null},
+      {"number": 16, "name": "Aziz Behich", "position": "DEF", "positionRaw": "LB", "rating": 78, "nation": "Avustralya", "rarity": null},
+      {"number": 25, "name": "Victor Braga", "position": "GK", "positionRaw": "GK", "rating": 73, "nation": "Brezilya", "rarity": null},
+      {"number": 8, "name": "Hamidou Traoré", "position": "MID", "positionRaw": "CDM", "rating": 74, "nation": "Mali", "rarity": null},
+      {"number": 2, "name": "Zeki Yavru", "position": "DEF", "positionRaw": "RB", "rating": 74, "nation": "Türkiye", "rarity": null},
+      {"number": 23, "name": "Brandley Kuwas", "position": "MID", "positionRaw": "RW", "rating": 73, "nation": "Curaçao", "rarity": null},
+      {"number": 11, "name": "Ibrahima Baldé", "position": "FWD", "positionRaw": "ST", "rating": 74, "nation": "Senegal", "rarity": null},
+      {"number": 6, "name": "Mehmet Taş", "position": "MID", "positionRaw": "CDM", "rating": 70, "nation": "Türkiye", "rarity": null},
+      {"number": 80, "name": "Çekdar Orhan", "position": "MID", "positionRaw": "CAM", "rating": 71, "nation": "Türkiye", "rarity": null}
     ]
   }
 ]
